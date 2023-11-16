@@ -16,6 +16,7 @@ The following tools and libraries are preinstalled for you:
 ### Image Gallery Page
 
 - Use the [Picsum Photos API](https://picsum.photos), `https://picsum.photos/v2/list`
+  - 💡 the [JSONView](https://chromewebstore.google.com/detail/jsonview/gmegofmjomhknnokphhckolhcffdaihd?pli=1) chrome extension is helpful
 - Fetch 30 images and render them in the Gallery so it appears as a full-screen grid of polaroid photos
 - Underneath each image please include the name of the photographer
 
